@@ -1,0 +1,66 @@
+html{
+    font-size: 10px;
+    font-family: 'Secular One', sans-serif;
+    background-color: #1d3557;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+}
+
+p{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+.p-princ{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    /*background-color: #ff9500;*/
+    background: -webkit-linear-gradient(top, #FFFFFF, #006699);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img{
+    
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+    box-shadow: black 5px 5px 1px;
+    /*-webkit-transition: -webkit-transform 1s ease-in-out 0.5s;*/
+}
+
+/*img:hover{
+    -webkit-transform: rotate(5deg);
+}*/
+
+button:hover{
+    outline: 2px solid black;
+    outline-offset: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
